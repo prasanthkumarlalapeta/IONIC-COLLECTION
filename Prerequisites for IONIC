@@ -1,0 +1,111 @@
+*****************KNOWLEDGE REQUIRED FOR STARTING IONIC FRAMEWORK ****************
+
+---------------------------------------------------------------------------------
+                         IONIC FRAMEWORK VERSION:1
+---------------------------------------------------------------------------------
+
+1. For Font End:
+________________
+
+  * Basic command over --> html
+                       --> CSS
+                       --> Java Script
+                                    |
+                                    |
+                                     --->Angular Js (Java Script library)
+                     
+
+                       -->usage of cordova plugins
+                     
+
+2. For Back End:
+________________
+
+  * Basic command over --> Ruby Rails
+                       --> FireBase
+                       --> BackAnd
+
+
+---------------------------------------------------------------------------------
+                         IONIC FRAMEWORK VERSION:2(beta)
+---------------------------------------------------------------------------------
+
+1. For Front End:
+_________________
+
+  * Basic command over --> html
+                     --> CSS
+                     --> Sass
+                     --> Java Script
+                                    |
+                                    |
+                                     --->Angular Js (Java Script library)
+                                    |
+                                    |
+                                     --->nodeJs
+                                    |
+                                    |
+                                     --->Test Script
+                     
+
+                     -->usage of cordova plugins
+ 
+
+2. For Back End:
+________________
+
+  * Basic command over --> Ruby Rails
+                       --> FireBase
+                       --> BackAnd
+                    
+
+---------------------------------------------------------------------------------
+                   SOFTWARES REQUIRED FOR IONIC FRAMEWORK 
+--------------------------------------------------------------------------------- 
+
+1.Android SDK
+2.nodeJS
+3.cordova
+4.ionic
+5.bower
+6.gulp
+
+
+-->Editing Tools --------> visualstudio 2015 (or) brackets
+
+
+---------------------------------------------------------------------------------
+                   FUTURES OF IONIC FRAMEWORK VERSION
+--------------------------------------------------------------------------------- 
+
+                      ********1.AngularJS******
+
+Ionic is using AngularJS MVC architecture for building rich single page applications optimized for mobile devices.                  
+
+
+                     ********2.CSS components******
+
+With native look and feel, these components offer almost all elements that mobile application needs.
+Components default styling can be easily overridden to accommodate your own design.
+
+                     
+                    ********3.JavaScript components*****
+
+These components are extending CSS components with JavaScript functionalities to cover all mobile elements that can't be done only with HTML and CSS.
+
+ 
+                     ********4.Cordova Plugins**********
+
+
+Apache Cordova plugins offer API needed for using native device functions with JavaScript code.
+
+
+                    *********5.Ionic CLI***************
+
+This is NodeJS utility powered with commands for starting, building, running and emulating Ionic applications.
+
+
+                     ********6.Ionic View***************
+
+Very useful platform for uploading, sharing and testing your application on native devices.
+
